@@ -1,0 +1,12 @@
+flax==0.12.2
+imageio==2.37.2
+jax==0.8.2
+matplotlib==3.10.8
+numpy==2.4.1
+optax==0.2.6
+orbax==0.1.9
+pandas==2.3.3
+ray==2.53.0
+scipy==1.17.0
+torch==2.9.1
+tqdm==4.67.1
