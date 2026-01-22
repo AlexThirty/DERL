@@ -7,7 +7,7 @@ Please consider citing us
         trenta2026derl,
         title={Learning and Transferring Physical Models through Derivatives},
         author={Alessandro Trenta and Andrea Cossu and Davide Bacciu},
-        journal={Submitted to Transactions on Machine Learning Research},
+        journal={Transactions on Machine Learning Research},
         year={2026},
         url={https://openreview.net/forum?id=IbBCDDeDF7},
     }
