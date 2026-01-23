@@ -4,13 +4,15 @@ Code for the paper **[Learning and Transferring Physical Models through Derivati
 Please consider citing us
 
 	@article{
-        trenta2026derl,
-        title={Learning and Transferring Physical Models through Derivatives},
-        author={Alessandro Trenta and Andrea Cossu and Davide Bacciu},
-        journal={Transactions on Machine Learning Research},
-        year={2026},
-        url={https://openreview.net/forum?id=IbBCDDeDF7},
-    }
+		trenta2026derl,
+		title={Learning and Transferring Physical Models through Derivatives},
+		author={Alessandro Trenta and Andrea Cossu and Davide Bacciu},
+		journal={Transactions on Machine Learning Research},
+		issn={2835-8856},
+		year={2026},
+		url={https://openreview.net/forum?id=IbBCDDeDF7},
+		note={}
+	}
 
 
 ## Requirements
